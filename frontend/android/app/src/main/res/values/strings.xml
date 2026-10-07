@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Highway Cafe EV</string>
+    <string name="title_activity_main">Highway Cafe EV</string>
+    <string name="package_name">com.highwaycafe.ev</string>
+    <string name="custom_url_scheme">com.highwaycafe.ev</string>
+</resources>
